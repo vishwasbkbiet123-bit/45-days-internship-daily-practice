@@ -1,0 +1,11 @@
+Product,Category,Sales,Region
+Laptop,Electronics,50000,North
+Mobile,Electronics,30000,South
+TV,Electronics,25000,East
+Shampoo,Personal Care,8000,West
+Soap,Personal Care,5000,North
+Rice,Grocery,12000,South
+Wheat,Grocery,10000,East
+Milk,Grocery,7000,West
+Headphones,Electronics,15000,North
+Toothpaste,Personal Care,6000,South
